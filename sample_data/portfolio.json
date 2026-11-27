@@ -1,0 +1,66 @@
+{
+  "as_of": "2026-11-15",
+  "portfolio": "Hyperscale Infrastructure — FY27",
+  "projects": [
+    {
+      "id": "DC-TX-01",
+      "name": "Austin Metro Campus Phase 2",
+      "status": "In Construction",
+      "committed_spend_m": 420,
+      "forecast_spend_m": 455,
+      "risk_score": 7.2,
+      "risk_notes": "Permit delay on substation; long-lead equipment slip",
+      "next_milestone": "Energization",
+      "milestone_date": "2027-03-15",
+      "owner": "Infrastructure Delivery"
+    },
+    {
+      "id": "DC-AZ-04",
+      "name": "Phoenix Expansion",
+      "status": "Design",
+      "committed_spend_m": 180,
+      "forecast_spend_m": 175,
+      "risk_score": 3.1,
+      "risk_notes": "On track; minor design changes",
+      "next_milestone": "Design Freeze",
+      "milestone_date": "2026-12-20",
+      "owner": "Capital Projects"
+    },
+    {
+      "id": "DC-VA-12",
+      "name": "Northern Virginia Colo Lease",
+      "status": "Lease Negotiation",
+      "committed_spend_m": 95,
+      "forecast_spend_m": 110,
+      "risk_score": 6.8,
+      "risk_notes": "Landlord requesting higher escalators; power availability tight",
+      "next_milestone": "Lease Execution",
+      "milestone_date": "2027-01-31",
+      "owner": "Real Estate"
+    },
+    {
+      "id": "DC-OR-07",
+      "name": "Oregon Greenfield",
+      "status": "Land Acquisition",
+      "committed_spend_m": 40,
+      "forecast_spend_m": 65,
+      "risk_score": 8.1,
+      "risk_notes": "Entitlement risk; community opposition; utility timeline uncertain",
+      "next_milestone": "Land Close",
+      "milestone_date": "2026-12-01",
+      "owner": "Land & Entitlements"
+    },
+    {
+      "id": "DC-TX-09",
+      "name": "Dallas Retrofit",
+      "status": "Commissioning",
+      "committed_spend_m": 210,
+      "forecast_spend_m": 208,
+      "risk_score": 2.4,
+      "risk_notes": "Final punch list; on budget",
+      "next_milestone": "Handover",
+      "milestone_date": "2026-12-10",
+      "owner": "Operations"
+    }
+  ]
+}

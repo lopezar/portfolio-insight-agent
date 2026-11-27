@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+vnv/
+*.json.bak
